@@ -2,9 +2,9 @@
 > Me，一个可爱的白帽子！
 ### 编程：
 <p>
-<img src="https://bianyu-tuchuang.oss-cn-shenzhen.aliyuncs.com/Python3-BianYu.png" alt="Python3" width="30%" />
-<img src="https://bianyu-tuchuang.oss-cn-shenzhen.aliyuncs.com/HTML5-BianYu.png" alt="HTML5" width="30%" />
-<img src="https://bianyu-tuchuang.oss-cn-shenzhen.aliyuncs.com/CSS3-BianYu.png" alt="CSS3" width="30%" />
+<img src="https://bianyu-tuchuang.oss-cn-shenzhen.aliyuncs.com/Python3-BianYu.png" alt="Python3" width="10%" />
+<img src="https://bianyu-tuchuang.oss-cn-shenzhen.aliyuncs.com/HTML5-BianYu.png" alt="HTML5" width="10%" />
+<img src="https://bianyu-tuchuang.oss-cn-shenzhen.aliyuncs.com/CSS3-BianYu.png" alt="CSS3" width="10%" />
 </p>
 <!--
 **Bian-Xin-Yu/Bian-Xin-Yu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
