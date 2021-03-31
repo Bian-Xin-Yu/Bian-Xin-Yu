@@ -15,7 +15,7 @@
 </p>
 
 #### 如何联系我?
-邮箱:```baby@bianyu.xin```
+```邮箱:baby@bianyu.xin```
 <!--
 **Bian-Xin-Yu/Bian-Xin-Yu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
