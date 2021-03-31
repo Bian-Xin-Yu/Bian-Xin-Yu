@@ -6,7 +6,7 @@
   <img src="https://bianyu-tuchuang.oss-cn-shenzhen.aliyuncs.com/HTML5-BianYu.png" alt="HTML5" width="6%" />
   <img src="https://bianyu-tuchuang.oss-cn-shenzhen.aliyuncs.com/CSS3-BianYu.png" alt="CSS3" width="5%" />
 </p>
-#### 工具：
+#### 工具:
 <p>
   <img src="https://bianyu-tuchuang.oss-cn-shenzhen.aliyuncs.com/KaLi-BianYu.png" alt="KaLi" width="4%" />
   <img src="https://bianyu-tuchuang.oss-cn-shenzhen.aliyuncs.com/KaFei-BianYu.png" alt="咖啡" width="5%" />
