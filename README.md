@@ -2,7 +2,7 @@
 > 我，一个可爱的白帽子！我的博客:[BianYu.Xin](https://bianyu.xin)
 #### 编程：
 <p>
-  <img src="https://bianyu-tuchuang.oss-cn-shenzhen.aliyuncs.com/Python3-BianYu.png" alt="Python3" width="7%" />
+  <img src="https://img.shields.io/badge/-Python3-ff69b4" alt="Python3" />
   <img src="https://bianyu-tuchuang.oss-cn-shenzhen.aliyuncs.com/HTML5-BianYu.png" alt="HTML5" width="6%" />
   <img src="https://bianyu-tuchuang.oss-cn-shenzhen.aliyuncs.com/CSS3-BianYu.png" alt="CSS3" width="5%" />
 </p>
