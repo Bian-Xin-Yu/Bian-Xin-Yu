@@ -3,15 +3,15 @@
 #### 编程：
 <p>
   <img src="https://img.shields.io/badge/-Python3-ff69b4" alt="Python3" />
-  <img src="https://bianyu-tuchuang.oss-cn-shenzhen.aliyuncs.com/HTML5-BianYu.png" alt="HTML5" width="6%" />
-  <img src="https://bianyu-tuchuang.oss-cn-shenzhen.aliyuncs.com/CSS3-BianYu.png" alt="CSS3" width="5%" />
+  <img src="https://img.shields.io/badge/-HTML5-orange" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-Css3-blueviolet" alt="Css3" />
 </p>
 
 #### 工具:
 <p>
-  <img src="https://bianyu-tuchuang.oss-cn-shenzhen.aliyuncs.com/KaLi-BianYu.png" alt="KaLi" width="4%" />
-  <img src="https://bianyu-tuchuang.oss-cn-shenzhen.aliyuncs.com/KaFei-BianYu.png" alt="咖啡" width="4%" />
-  <img src="https://bianyu-tuchuang.oss-cn-shenzhen.aliyuncs.com/BaiDu-BianYu.png" alt="BaiDu" width="5.1%" />
+  <img src="https://img.shields.io/badge/-KaLi-ff69b4" alt="KaLi" />
+  <img src="https://img.shields.io/badge/-%E5%92%96%E5%95%A1-yellow" alt="咖啡" />
+  <img src="https://img.shields.io/badge/-Baidu-9cf" alt="BaiDu" />
 </p>
 
 #### 如何联系我?
