@@ -2,13 +2,13 @@
 > 我，一个可爱的白帽子！我的博客:[BianYu.Xin](https://bianyu.xin)
 #### 编程：
 <p>
+  <a href="https://github.com/anuraghazra/convoychat">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Bian-Xin-Yu" />
+  </a>
   <img src="https://img.shields.io/badge/-Python3-ff69b4" alt="Python3" />
   <img src="https://img.shields.io/badge/-HTML5-orange" alt="HTML5" />
   <img src="https://img.shields.io/badge/-Css3-blueviolet" alt="Css3" />
 </p>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" style="margin-top: 0px;" src="https://github-readme-stats.vercel.app/api?username=Bian-Xin-Yu" />
-</a>
 
 #### 工具:
 <p>
