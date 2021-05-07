@@ -13,7 +13,8 @@
   <img src="https://img.shields.io/badge/-%E5%92%96%E5%95%A1-yellow" alt="咖啡" />
   <img src="https://img.shields.io/badge/-Baidu-9cf" alt="BaiDu" />
 </p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bian-Xin-Yu)](https://github.com/anuraghazra/github-readme-stats)
 #### 如何联系我?
 ```邮箱:baby@bianyu.xin```
 <!--
