@@ -6,6 +6,9 @@
   <img src="https://img.shields.io/badge/-HTML5-orange" alt="HTML5" />
   <img src="https://img.shields.io/badge/-Css3-blueviolet" alt="Css3" />
 </p>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Bian-Xin-Yu" />
+</a>
 
 #### 工具:
 <p>
@@ -14,7 +17,6 @@
   <img src="https://img.shields.io/badge/-Baidu-9cf" alt="BaiDu" />
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bian-Xin-Yu)](https://github.com/anuraghazra/github-readme-stats)
 #### 如何联系我?
 ```邮箱:baby@bianyu.xin```
 <!--
