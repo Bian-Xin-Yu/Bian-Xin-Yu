@@ -1,5 +1,5 @@
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Bian-Xin-Yu&show_icons=true&count_private=true&theme=buefy&locale=cn/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Bian-Xin-Yu&show_icons=true&count_private=true&theme=buefy&locale=cn"/>
 </a>
 
 ### 你好呀！ 👋
