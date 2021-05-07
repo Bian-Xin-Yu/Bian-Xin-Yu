@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/-Css3-blueviolet" alt="Css3" />
 </p>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Bian-Xin-Yu" />
+  <img align="right" style="margin-top: 0px;" src="https://github-readme-stats.vercel.app/api?username=Bian-Xin-Yu" />
 </a>
 
 #### 工具:
