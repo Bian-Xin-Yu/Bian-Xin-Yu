@@ -1,7 +1,7 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Bian-Xin-Yu&show_icons=true&count_private=true&theme=buefy&locale=cn"/>
+<font>GPG key ID: 81753FEDAA489A10</font>
 </a>
-<font style="float:right">GPG key ID: 81753FEDAA489A10</font>
 
 ### 你好呀！ 👋
 > 我，一个可爱的白帽子！我的博客:[BianYu.Xin](https://bianyu.xin)
